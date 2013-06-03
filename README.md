@@ -1,4 +1,4 @@
-GAPI
+GAPI with Chart.js
 ====
 
 How to use
